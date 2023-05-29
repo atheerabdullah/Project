@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.example.project21.Service.MovieService,\
+  com.example.project21.Project21Application,\
+  com.example.project21.Controller.MovieController,\
+  com.example.project21.ControllerAdvice.GlobalExceptionHandler,\
+  com.example.project21.Repository.MovieRepository
